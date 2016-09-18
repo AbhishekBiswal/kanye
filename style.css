@@ -23,8 +23,9 @@ h3
 }
 p
 {
-	max-width: 500px;
+	max-width: 600px;
 	margin: 0 auto;
+	padding: 10px 20px;
 }
 .divider
 {
@@ -32,4 +33,9 @@ p
 	width: 30%;
 	margin: 10px auto;
 	border-bottom: 1px solid #0084FF;
+}
+a
+{
+	color: #0084FF;
+	text-decoration: none;
 }
